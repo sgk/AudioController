@@ -1,0 +1,10 @@
+ATmega32U4 USB HID Audio Controller using LUFA Library.
+
+This is a heavily modified version of "MediaController" project in the LUFA Library "Projects" directory.
+
+ * Combined *.[ch] files into one single file for my understanding.
+ * Only "Volume Up", "Volume Down" and "Mute" buttons work.
+ * Changed the HID descriptor bytes.
+ * Changed the USB PID/VID to my own.
+
+2012-10-2
